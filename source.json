@@ -4,7 +4,7 @@
     "description": "Welcome to my source! Here you'll find qBitControl, and my future apps.",
     "iconURL": "https://raw.githubusercontent.com/Michael-128/qBitControl/main/qBitControl/Assets.xcassets/AppIcon.appiconset/logo1.png",
     "headerURL": "https://raw.githubusercontent.com/Michael-128/qBitControl/main/qBitControl/Assets.xcassets/AppIcon.appiconset/logo1.png",
-    "website": "https://github.com/Michael-128",
+    "website": "https://github.com/disco-bear",
     "patreonURL": "https://www.patreon.com/michael128",
     "tintColor": "#449FFF",
     "featuredApps": [
@@ -102,9 +102,6 @@
                         "usageDescription": "qBitControl uses the local network to communicate with qBittorrent's API."
                     }
                 ]
-            },
-            "patreon": {
-                "pledge": 0
             }
         }
     ],
